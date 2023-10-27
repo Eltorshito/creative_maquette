@@ -5,6 +5,8 @@ module.exports = {
     extend: {
       fontFamily: {
         'vampiro': ['Vampiro One', 'sans-serif'],
+        'playfair': ['Playfair', 'sans-serif'],
+        'mulish':['Mulish', 'sans-serif'],
 
 
       },
